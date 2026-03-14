@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-api-types": "^0.38.42",
+    "discord.js": "^14.25.1",
+    "mymc-lib": "^1.2.1"
+  }
+}
